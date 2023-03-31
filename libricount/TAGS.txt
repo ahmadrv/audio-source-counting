@@ -1,0 +1,3 @@
+content.data-type.audio # Contains audio data.
+ml.fairness.gender # Contains data related to roles, behaviours, activities, attributes and opportunities that any society considers appropriate for girls and boys, women and men, or other non-binary categories. (examples: transgender, non-binary, woman, man, etc.)
+ml.task.audio-classification # Relates to Audio Classification, a machine learning task.
